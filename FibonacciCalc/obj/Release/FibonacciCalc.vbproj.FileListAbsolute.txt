@@ -1,0 +1,11 @@
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\bin\Release\FibonacciCalc.exe.config
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\bin\Release\FibonacciCalc.exe
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\bin\Release\FibonacciCalc.pdb
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\bin\Release\FibonacciCalc.xml
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\obj\Release\FibonacciCalc.FibonacciForm.resources
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\obj\Release\FibonacciCalc.Resources.resources
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\obj\Release\FibonacciCalc.vbproj.GenerateResource.cache
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\obj\Release\FibonacciCalc.vbproj.CoreCompileInputs.cache
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\obj\Release\FibonacciCalc.exe
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\obj\Release\FibonacciCalc.xml
+C:\Users\Master\Source\repos\FibonacciCalc\FibonacciCalc\obj\Release\FibonacciCalc.pdb
